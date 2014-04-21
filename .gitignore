@@ -1,0 +1,17 @@
+/.classpath
+/.project
+/.settings/
+/target
+/pdf-service-client/.classpath
+/pdf-service-client/.project
+/pdf-service-client/.settings/
+/pdf-service-client/target
+/pdf-service-common/.classpath
+/pdf-service-common/.project
+/pdf-service-common/.settings/
+/pdf-service-common/target
+/pdf-service-web/.classpath
+/pdf-service-web/.project
+/pdf-service-web/.settings/
+/pdf-service-web/target
+
